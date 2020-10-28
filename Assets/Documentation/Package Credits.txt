@@ -1,0 +1,2 @@
+Credit for the First Person Controller called "Mini First Person Controller" goes to "Vitefaittt" on the Unity Asset Store
+https://assetstore.unity.com/packages/tools/input-management/mini-first-person-controller-174710
