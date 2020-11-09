@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yourf\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\yourf\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_SamMenu.1912945865.00" t="ExcludeRecursive" />
+    <e p="C:\Users\yourf\AppData\Roaming\JetBrains\Rider2020.1\scratches" t="IncludeRecursive" />
+    <e p="E:\git\SamMenu" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Circle.cs" t="Include" />
+            <e p="RadialMenu.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Documentation" t="Include">
+          <e p="Package Credits.txt" t="Include" />
+        </e>
+        <e p="First person controller" t="Include">
+          <e p="Components" t="Include">
+            <e p="Crouch.cs" t="Include" />
+            <e p="GroundCheck.cs" t="Include" />
+            <e p="Jump.cs" t="Include" />
+            <e p="Zoom.cs" t="Include" />
+          </e>
+          <e p="FirstPersonLook.cs" t="Include" />
+          <e p="FirstPersonMovement.cs" t="Include" />
+        </e>
+        <e p="Graphics" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="CircleFade.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SamMenu.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
